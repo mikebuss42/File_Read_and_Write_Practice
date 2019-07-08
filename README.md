@@ -2,6 +2,7 @@
 Created by: Michael Busslinger
 Using: Xcode
 Written in: C++ Language
+
 Description:
 This program is an Inventory program that creates an inventory.txt file from scratch which you can add items and edit their information.
 
